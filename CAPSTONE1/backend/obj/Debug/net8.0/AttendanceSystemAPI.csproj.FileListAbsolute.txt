@@ -1,0 +1,8 @@
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\AttendanceSystemAPI.csproj.AssemblyReference.cache
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\AttendanceSystemAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\AttendanceSystemAPI.AssemblyInfoInputs.cache
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\AttendanceSystemAPI.AssemblyInfo.cs
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\AttendanceSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\AttendanceSystemAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\louie\OneDrive\Desktop\CAPSTONE1\backend\obj\Debug\net8.0\AttendanceSystemAPI.MvcApplicationPartsAssemblyInfo.cache
